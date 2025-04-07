@@ -1,17 +1,20 @@
 # Amazon Kindle Books Analysis
-![Amazon Header](images.jpg)
+![Amazon Header](images.png)
+
+-- 
 ## Introduction
 This Excel project focuses on analyzing Amazon Kindle book data scraped in October 2023. The objective is to derive insights that will aid Mr. John in launching his new book publishing company.
 
+-- 
 Mr. John, a prospective client, has approached us via email seeking assistance in setting up his publishing venture. Before officially launching his company, he wishes to gain insights from Amazon Kindle data.
-### Disclaimer:
-Mr. John is a fictional client, and his new company GLWY Ltd (Greatness Lies Within You Ltd) is purely hypothetical and does not represent any existing entity. The dataset used is authentic and was sourced from publicly available Amazon Kindle data in October 2023.
+
+-- 
 
 ### Kindly download the Excel files below: 
 
-Raw Dataset - [Here](https://www.dropbox.com/scl/fi/9tboqvsnlq0d755526fqy/Amazon-Kindle-Data-October-2023-Dataset.csv?rlkey=qb3lk16zzfw1wjpv3z6uji0yy&st=5ir1wcvz&dl=0)
+Raw Dataset - [Here](https://www.dropbox.com/scl/fi/9tboqvsnlq0d755526fqy/Amazon-Kindle-Data-October-2023-Dataset.csv?rlkey=qb3lk16zzfw1wjpv3z6uji0yy&st=5ir1wcvz&dl=0)  
 
-
+-- 
 ## Problem Statement:
 Mr. John seeks the following insights for his new publishing company:
 
@@ -207,5 +210,8 @@ Additionally, Mr. John should avoid categories with lower ratings, such as Law, 
 In terms of collaboration opportunities, Mr. John should explore partnerships with prolific authors identified in the analysis, such as James Patterson and J.K. Rowling. Collaborating with these established authors can help elevate the visibility and credibility of GLWY Ltd (Greatness Lies Within You Ltd) in the competitive publishing industry.
 
 Furthermore, Mr. John should closely monitor market trends and competitor activity, particularly the dominance of Amazon.com Service LLC. Understanding market dynamics and consumer preferences will be crucial for strategic planning and decision-making as GLWY Ltd establishes itself in the publishing landscape.
-
+-- 
 Overall, by leveraging the insights gathered from the analysis and adopting a strategic approach to publishing, Mr. John can position GLWY Ltd for success and achieve its goal of becoming a prominent player in the book publishing industry. Thank You for Reading! Stay Blessed!!
+--  
+### Disclaimer:
+Mr. John is a fictional client, and his new company GLWY Ltd (Greatness Lies Within You Ltd) is purely hypothetical and does not represent any existing entity. The dataset used is authentic and was sourced from publicly available Amazon Kindle data in October 2023.
