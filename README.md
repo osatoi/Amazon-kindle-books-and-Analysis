@@ -1,5 +1,5 @@
 # Amazon Kindle Books Analysis
-![Amazon Header](Amazon_Header.jpg)
+![Amazon Header](Images.jpg)
 ## Introduction
 This Excel project focuses on analyzing Amazon Kindle book data scraped in October 2023. The objective is to derive insights that will aid Mr. John in launching his new book publishing company.
 
