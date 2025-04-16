@@ -5,16 +5,16 @@
 ## Introduction
 This Excel project focuses on analyzing Amazon Kindle book data scraped in October 2023. The objective is to derive insights that will aid Mr. John in launching his new book publishing company.
 
--- 
+---
 Mr. John, a prospective client, has approached us via email seeking assistance in setting up his publishing venture. Before officially launching his company, he wishes to gain insights from Amazon Kindle data.
 
--- 
+---
 
 ### Kindly download the Excel files below: 
 
 Raw Dataset - [Here](https://www.dropbox.com/scl/fi/9tboqvsnlq0d755526fqy/Amazon-Kindle-Data-October-2023-Dataset.csv?rlkey=qb3lk16zzfw1wjpv3z6uji0yy&st=5ir1wcvz&dl=0)  
 
--- 
+---
 ## Problem Statement:
 Mr. John seeks the following insights for his new publishing company:
 
