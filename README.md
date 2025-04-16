@@ -1,5 +1,5 @@
 # Amazon Kindle Books Analysis
-![(images.jpeg)
+![](images.jpeg)
 
 -- 
 ## Introduction
