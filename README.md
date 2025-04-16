@@ -1,5 +1,5 @@
 # Amazon Kindle Books Analysis
-![Amazon Header](images.jpeg)
+![(images.jpeg)
 
 -- 
 ## Introduction
